@@ -1,0 +1,7 @@
+2025-03-29T11:59:08+00:00 INFO redirect url: https://ramcommunication.com/wc-api/phonepe/?merchant_transaction_id=70320250329115908
+2025-03-29T11:59:10+00:00 INFO enqueue script called
+2025-03-29T11:59:10+00:00 INFO PRODUCTION
+2025-03-29T12:00:20+00:00 ERROR {"message":"Invalid callback","code":0,"httpStatusCode":0,"data":null}
+2025-03-29T12:00:25+00:00 INFO "70320250329115908"
+2025-03-29T12:00:25+00:00 INFO mtid: 70320250329115908
+2025-03-29T12:00:40+00:00 ERROR {"message":"Invalid callback","code":0,"httpStatusCode":0,"data":null}

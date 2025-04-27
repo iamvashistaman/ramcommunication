@@ -1,0 +1,5 @@
+2025-04-16T12:33:03+00:00 INFO redirect url: https://ramcommunication.com/wc-api/phonepe/?merchant_transaction_id=70820250416123303
+2025-04-16T12:33:05+00:00 INFO enqueue script called
+2025-04-16T12:33:05+00:00 INFO PRODUCTION
+2025-04-16T12:34:13+00:00 ERROR {"message":"Invalid callback","code":0,"httpStatusCode":0,"data":null}
+2025-04-16T12:34:33+00:00 ERROR {"message":"Invalid callback","code":0,"httpStatusCode":0,"data":null}

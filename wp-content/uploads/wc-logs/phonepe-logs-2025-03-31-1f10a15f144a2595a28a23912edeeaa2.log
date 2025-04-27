@@ -1,0 +1,12 @@
+2025-03-31T10:06:19+00:00 INFO redirect url: https://ramcommunication.com/wc-api/phonepe/?merchant_transaction_id=70520250331100619
+2025-03-31T10:06:21+00:00 INFO enqueue script called
+2025-03-31T10:06:21+00:00 INFO PRODUCTION
+2025-03-31T10:26:24+00:00 ERROR {"message":"Invalid callback","code":0,"httpStatusCode":0,"data":null}
+2025-03-31T10:26:44+00:00 ERROR {"message":"Invalid callback","code":0,"httpStatusCode":0,"data":null}
+2025-03-31T13:36:35+00:00 INFO redirect url: https://ramcommunication.com/wc-api/phonepe/?merchant_transaction_id=70620250331133635
+2025-03-31T13:36:37+00:00 ERROR POST issue null url: https://api.phonepe.com/apis/pg-ingestion/client/v1/backend/events/batch
+2025-03-31T13:36:37+00:00 ERROR {"message":null,"code":null,"httpStatusCode":429,"data":null}
+2025-03-31T13:36:37+00:00 INFO enqueue script called
+2025-03-31T13:36:37+00:00 INFO PRODUCTION
+2025-03-31T13:56:40+00:00 ERROR {"message":"Invalid callback","code":0,"httpStatusCode":0,"data":null}
+2025-03-31T13:57:01+00:00 ERROR {"message":"Invalid callback","code":0,"httpStatusCode":0,"data":null}
